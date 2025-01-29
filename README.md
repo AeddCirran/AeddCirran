@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### I work in the field of machine learning in regulatory genomics.
-### I'm interested in mathematics, algorithms, DL, RL, KANs and bioinformatics 
+#### I work in the field of machine learning in regulatory genomics.
+#### I'm interested in mathematics, algorithms, DL, RL, KANs and bioinformatics 
 <!--
 **AeddCirran/AeddCirran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
